@@ -1,4 +1,4 @@
-from tbest100 import data
+from tworst80000 import data
 import time
 
 # Python program to implement Pigeonhole Sort */
