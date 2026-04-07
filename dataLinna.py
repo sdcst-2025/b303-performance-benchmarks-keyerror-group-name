@@ -1,0 +1,11 @@
+# t 1000 best data(s)
+pigeo: 0.0
+quick: None
+radix: 0.0009992122650146484
+heap: 0.0017075538635253906
+
+# t 100000 best data(s)
+pigeo: 0.015655040740966797
+quick: None
+radix: 0.20057082176208496
+heap: 0.38361263275146484
